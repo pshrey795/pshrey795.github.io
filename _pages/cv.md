@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download full CV [here](https://drive.google.com/file/d/1J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6/view?usp=sharing)
+
 Education
 ======
 * Ph.D in Computer Science, University of Maryland, College Park (2023 - Present)
@@ -17,7 +19,7 @@ Education
 Work experience
 ======
 * August 2023 - Present: Graduate Research Assistant, University of Maryland, College Park
-  * FLuid Simulation
+  * Fluid Simulation
   * Solid-Fluid coupling
 
 * August 2022 - May 2023: Research Assistant, IIT Delhi
